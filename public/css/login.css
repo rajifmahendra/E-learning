@@ -1,0 +1,101 @@
+body{
+	margin: 0 auto;
+	background-image: url("images/bgindex.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 1080px;
+}
+#wrap{
+	width: 900px;
+	height: 500;
+	margin: 0 auto;
+	margin-left:20%;
+	margin-top: 15%;
+}
+#header{
+	background-color: rgba(40, 75, 94,0.7);
+	width: 900px;
+	height: 500px;
+	border-radius:250px 5px 200px 5px;
+	text-align:center;
+}
+.kartun {
+	width :250px;
+	height:250px;
+	margin-top:-23%;
+  margin-right:580px;
+}
+.logoelearning{
+	width :550px;
+	height:230px;
+	margin-top:-100px;
+	margin-bottom:-10px;
+
+}
+table{
+	margin: 0 auto;
+	margin-top: -25px;
+	border: none;
+	text-align:center;
+	margin-left:300px;
+}
+#header ul h1 {
+	font-size : 40px;
+	color : darkblue;
+	margin-left: 100px;
+	margin-bottom:80px;
+	font-family: Ravie;
+	text-align:center;
+  margin-top: -20px;
+}
+input[type="text"]{
+  width:280px;
+	height:40px;
+	border-radius:10px;
+	margin-bottom: 0px;
+	margin-top:  0px;
+	font-family: sans-serif,Arial;
+	font-size:20px;
+	margin-left:100px;
+}
+input[type="password"]{
+  width:280px;
+	height:40px;
+	border-radius:10px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	font-family: sans-serif,Arial;
+	font-size:20px;
+	margin-left:100px;
+}
+input[type="text"]{
+  margin-bottom: 10px;
+}
+input[type="submit"]{
+	width: 30%;
+	height:35px;
+	background:#0b8256;
+	border-radius: 6px;
+	letter-spacing: 0.1em;
+	color:white;
+	font-Size:20px;
+	font-family: sans-serif,arial;
+	border: none;
+  margin-left: 33px;
+	margin-right:185px;
+  margin-top: 30px;
+}
+table tr td{
+	font-Size:25px;
+	font-family: sans-serif,arial;
+	color:white;
+}
+.email{
+  padding-bottom: -18px;
+}
+.mabal{
+	width :320px;
+	height:345px;
+	margin-top:2%;
+	margin-bottom:-250px;
+	margin-left: 37%;
+}
