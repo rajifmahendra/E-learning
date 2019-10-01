@@ -6,7 +6,7 @@
 
   <!-- CSRF Token -->
   <meta name="csrf-token" content="{{ csrf_token() }}">
-  <title>SKRIPSI E-learning</title>
+  <title>E-learning</title>
   <link rel="shortcut icon" href="{{ asset('css/images/logomabal.png') }}">
 
   <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
